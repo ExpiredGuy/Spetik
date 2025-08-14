@@ -35,3 +35,4 @@ data/     → NNUE & opening book
 -This is a chess engine built from 2025 March to 2025 August, my name is David, im 12 years old and this chess engine 
 I collab with my friend. We came over to each other house to built this chess engine. Only I have Github , so please 
 visit :
+"# Spetik" 
